@@ -1,14 +1,4 @@
-﻿/****************************************************************************
-**					        SAKARYA ÜNİVERSİTESİ
-**			       BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				        BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				       NESNEYE DAYALI PROGRAMLAMA DERSİ
-**
-**				ÖDEV NUMARASI…...: 1.PROJE
-**				ÖĞRENCİ ADI...............: Abdulkadir Baştuğ
-**				ÖĞRENCİ NUMARASI.: B201210084
-**				DERS GRUBU…………: 1.Öğretim C
-****************************************************************************/
+
 using projendp.meyveler;
 using System;
 using System.Collections.Generic;
