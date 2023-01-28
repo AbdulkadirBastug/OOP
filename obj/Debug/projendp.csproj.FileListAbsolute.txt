@@ -1,0 +1,20 @@
+C:\Users\Asus\source\repos\projendp\bin\Debug\projendp.exe.config
+C:\Users\Asus\source\repos\projendp\bin\Debug\projendp.exe
+C:\Users\Asus\source\repos\projendp\bin\Debug\projendp.pdb
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.Form1.resources
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.Properties.Resources.resources
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.exe
+C:\Users\Asus\source\repos\projendp\obj\Debug\projendp.pdb
+D:\ders\nesneye dayalı programlama\Proje\projendp\bin\Debug\projendp.exe.config
+D:\ders\nesneye dayalı programlama\Proje\projendp\bin\Debug\projendp.exe
+D:\ders\nesneye dayalı programlama\Proje\projendp\bin\Debug\projendp.pdb
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.csprojAssemblyReference.cache
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.Form1.resources
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.Properties.Resources.resources
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.csproj.GenerateResource.cache
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.csproj.CoreCompileInputs.cache
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.exe
+D:\ders\nesneye dayalı programlama\Proje\projendp\obj\Debug\projendp.pdb
